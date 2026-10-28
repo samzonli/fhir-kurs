@@ -42,7 +42,7 @@ Other representations of profile: [CSV](StructureDefinition-EducationEncounter.c
   "name" : "EducationEncounter",
   "title" : "Education Encounter",
   "status" : "draft",
-  "date" : "2026-10-28T21:42:16+00:00",
+  "date" : "2026-10-28T21:54:04+00:00",
   "publisher" : "FHIR-utbildning",
   "description" : "Profil för en vårdkontakt i FHIR-utbildningen.",
   "jurisdiction" : [{
