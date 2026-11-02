@@ -5,4 +5,4 @@ Expression: "identifer
   .all(value.matches('^[0-9]{12}$'))"
 Severity: #error
 
-//.where(system = $personnummer) Det går inte att hämta från alias
+//.where(system = $personnummer) Det går inte att hämta från alias.
